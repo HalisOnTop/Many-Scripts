@@ -1,3 +1,4 @@
+-- by leakD 
 local vcs = cloneref(game:GetService("VoiceChatService"))
 local vci = cloneref(game:GetService("VoiceChatInternal"))
 local cg = game:GetService("CoreGui")
